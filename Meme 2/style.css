@@ -1,0 +1,23 @@
+body {
+    background: black;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 2.4rem;
+}
+
+.poster {
+    color: white;
+    background: black;
+    font-family: "Comic Neue", cursive;
+    margin-top: 100px;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
+
+.meme {
+    width: 100%;
+    border: 3px solid white;
+}
