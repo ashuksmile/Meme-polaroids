@@ -1,10 +1,11 @@
 /* font-family: "Archivo Black", sans-serif; */
 body {
     background: black;
+    height: 100vh;
 }
 
 h1 {
-    /* margin: 0; */
+    margin: 0;
     text-transform: uppercase;
     font-size: 2.8rem;
 }
@@ -17,16 +18,17 @@ p {
 
 .poster {
     background-color: white;
-    /* width: 60%; */
-    height: 60%;
-    margin-left: 20%;
-    /* margin: 0 auto; */
-    margin-top: 100px;
+    width: 60%;
+    margin: 10% auto 0;
+    min-height: 70vh;
+    font-family: "Archivo Black", sans-serif;
+    /* margin-top: 10%; */
     text-align: center;
 }
 
 .meme {
     width: 96%;
+    height: auto;
     margin-top: 2%;
     }
 
