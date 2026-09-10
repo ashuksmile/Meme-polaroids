@@ -1,0 +1,29 @@
+body {
+    background: black;
+    height: 100vh;
+}
+
+h1 {
+    margin: 0;
+    text-transform: lowercase;
+    font-size: 2.8rem;
+}
+
+p {
+    margin: 0;
+    padding: 1%;
+    font-size: large;
+}
+.poster {
+    background-color: white;
+    text-align: center;
+    width: 60%;
+    min-height: 60vh;
+    margin: 10% auto 0;
+}
+
+.meme {
+    width: 98%;
+    height: auto;
+    margin-top: 1%;
+}
